@@ -1,4 +1,4 @@
-# MAIDS
+# SurgBox
 ![Image](https://github.com/franciszchen/SurgBox/blob/main/work%20flow.png)
 
 ## 1. Environment setting
