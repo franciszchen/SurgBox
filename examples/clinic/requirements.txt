@@ -1,0 +1,40 @@
+# Recommend to use conda environment.
+# Please first check nvcc version and 
+# make sure it satisfies the vLLM's 
+# requirements.
+# vllm==0.2.6
+# vllm==0.4.0+cu118
+tqdm
+spacy
+scikit-learn
+jsonlines
+re
+# transformers==4.36.2
+transformers==4.42.4
+filelock
+datasets==2.15.0
+nltk
+dataclasses
+sacrebleu==2.4.0
+rouge_score==0.1.2
+# flash-attn==2.3.6
+# flash-attn==2.5.2
+einops==0.7.0
+sentencepiece
+deepspeed==0.12.6
+accelerate==0.25.0
+peft==0.7.1
+bitsandbytes>=0.41.1
+evaluate==0.4.1
+tokenizers==0.15.0
+tensorboard==2.14.0
+# openai==0.28.1
+# torch==2.1.2
+openai==1.6.1
+tiktoken==0.5.2
+scikit-learn==1.3.2
+re
+# Please install factscore in a separate
+# env. There are conflicts with other 
+# packages.
+# factscore==0.1.5

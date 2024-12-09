@@ -1,0 +1,35 @@
+'''
+    Surgery name should be one of follows:
+
+Neuroendoscopic transnasphenoidal approach to pituitary adenoma resection + sellar floor reconstruction,
+Neuroendoscopic transnasosphenoidal approach to pituitary adenoma resection + sellar area exploration,
+Expanded transnasosphenoidal approach for sellar meningioma resection + sellar floor reconstruction under neuronavigation,
+Transsphenoidal sinus sellar region space-occupying lesion resection + sellar floor reconstruction,
+Neuroendoscopic and neuronavigated extended transnasphenoidal approach for pituitary adenoma resection + sellar floor reconstruction,
+Neuroendoscopic transnasal sphenoid sinus sellar region space-occupying lesion resection + sellar floor reconstruction,
+Neuroendoscopic and neuronavigated transnasphenoidal approach for pituitary adenoma resection + sellar floor reconstruction,
+Neuroendoscopic transnasosphenoidal approach sellar area exploration + sellar floor reconstruction + cerebrospinal fluid leak repair,
+Neuroendoscopy, neuronavigation [surgical approach] pituitary adenoma resection + sellar floor reconstruction,
+Right pterional craniotomy for pituitary adenoma resection,
+Neuroendoscopic and neuronavigated transnasosphenoidal approach sellar exploration + sellar floor reconstruction + cerebrospinal fluid leak repair,
+Neuroendoscopic transnasosphenoidal approach to pituitary growth hormone microadenoma resection + sellar floor reconstruction,
+Right frontal craniotomy with coronal incision for pituitary adenoma resection,
+Neuroendoscopic and neuronavigated transnasosphenoidal approach for cyst resection + cerebrospinal fluid leak repair,
+Neuroendoscopic transnasosphenoidal approach to sellar area exploration + sellar floor reconstruction,
+Neuroendoscopic transnasosphenoidal approach to resection of space-occupying lesions in the sellar area + sellar floor reconstruction,
+Neuroendoscopic transnasosphenoidal approach to pituitary adenoma resection + sellar floor reconstruction + cerebrospinal fluid leak repair,
+Pituitary adenoma resection via transnasphenoidal approach + sellar floor reconstruction,
+Neuronavigated extended transnasphenoidal approach for pituitary adenoma resection + sellar floor reconstruction,
+Extended transnasphenoidal approach for pituitary adenoma resection + sellar floor reconstruction,
+Neuroendoscopic extended transnasphenoidal approach for craniopharyngioma resection + sellar floor reconstruction + cerebrospinal fluid leak repair,
+Neuroendoscopic extended transnasphenoidal approach for pituitary adenoma resection + sellar floor reconstruction,
+Right ventriculoperitoneal shunt,
+Neuroendoscopy and neuronavigation expanded transnasal sphenoidal approach to sellar cystic lesion resection + sellar floor reconstruction + cerebrospinal fluid leak repair,
+Transsphenoidal pituitary tumor resection,
+Pituitary adenoma resection + sellar floor reconstruction through single nasal sphenoid sinus approach under neuronavigation,
+Transnasphenoidal approach to pituitary adenoma resection + sellar floor repair,
+Neuroendoscopic and neuronavigated extended transnasphenoidal approach for resection of sellar area space-occupying lesions,
+Neuroendoscopic transnasal sphenoid sinus approach resection of sellar space-occupying lesions + sellar floor reconstruction,
+Neuroendoscopic transnasphenoidal approach to Rathke's cyst resection + sellar floor reconstruction
+
+'''
