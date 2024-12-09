@@ -1,5 +1,5 @@
 # MAIDS
-![Image](https://github.com/franciszchen/MAIDS/blob/main/work flow.pdf)
+![Pdf](https://github.com/franciszchen/MAIDS/blob/main/work flow.pdf)
 
 ## 1. Environment setting
 ```
