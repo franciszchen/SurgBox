@@ -24,16 +24,12 @@ llm:
 ```
 step 1. cd ./MetaGPT-main/examples/clinic
 
-step 2. python MAgent.py
+step 2. python SurgBox.py
 ```
-## 3. Download
-```
-Model_download_url:xxx
-Dataset_download_url: xxx
-```
+
 ## Citation
 
-To cite [MAIDS](XXX) in publications, please use the following BibTeX entries.
+To cite (XXX) in publications, please use the following BibTeX entries.
 
 ```bibtex
 
