@@ -32,10 +32,10 @@ step 2. python SurgBox.py
 If you use our code or paper in your work, please cite our paper.
 
 ```bibtex
-@article{wu2024surgbox,
+@inproceedings{wu2024surgbox,
   title={SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot},
   author={Wu, Jinlin and Liang, Xusheng and Bai, Xuexue and Chen, Zhen},
-  journal={arXiv preprint arXiv:2412.05187},
+  booktitle={IEEE International Conference on Big Data (IEEE BigData)},
   year={2024}
 }
 
