@@ -29,9 +29,15 @@ step 2. python SurgBox.py
 
 ## Citation
 
-To cite (XXX) in publications, please use the following BibTeX entries.
+If you use our code or paper in your work, please cite our paper.
 
 ```bibtex
+@article{wu2024surgbox,
+  title={SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot},
+  author={Wu, Jinlin and Liang, Xusheng and Bai, Xuexue and Chen, Zhen},
+  journal={arXiv preprint arXiv:2412.05187},
+  year={2024}
+}
 
 ```
 
